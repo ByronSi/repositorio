@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">repositorio</string>
+    <string name="Mensaje">Mensaje desde String</string>
+    <string name="password">Password</string>
+</resources>
